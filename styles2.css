@@ -19,6 +19,7 @@ h1 {
     width:100%;
     background: 
         linear-gradient(to top right, #008000, #000000, #FF0000);
+    z-index: 0;
     justify-content: center;
 }
 
