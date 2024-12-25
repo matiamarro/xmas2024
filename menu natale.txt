@@ -1,0 +1,11 @@
+menu natale:
+- aperitivo bruschetta
+- aperitivo pizzette e focacce
+- salmone in pasta sfoglia
+- insalata russa
+- insalati di pollo
+- flan di broccoli con fonduta
+- ravioli delle casa in burro e salvia
+- rollata di coniglio con contorno di cipolle
+- mela cotta con panna
+- dolce della casa
