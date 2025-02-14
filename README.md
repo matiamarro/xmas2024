@@ -1,8 +1,8 @@
-# Christmas 2024 - Interactive Menu
+# 🎄 Christmas 2024 - Interactive Menu 
 
 This project has been realized for the Christmas 2024 lunch celebration.
 
-It is an interactive menu that guests can view on their smartphones to discover the dishes that will be served during the meal.
+It is an interactive menu that guests can view on their smartphones to discover the dishes that will be served during the meal. 
 
 ## Screenshots
 
