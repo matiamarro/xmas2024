@@ -6,6 +6,5 @@ It is an interactive menu that guests can view on their smartphones to discover 
 
 ## Screenshots
 
-![Screenshot 1](imgs/screen1.jpeg)
-![Screenshot 2](imgs/screen2.jpeg)
-
+<img src="imgs/screen1.jpeg" alt="Screenshot 1" width="300" />
+<img src="imgs/screen2.jpeg" alt="Screenshot 2" width="300" />
